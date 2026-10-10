@@ -1,6 +1,6 @@
 # 4ccEditor GV Bulk Tools
 
-**A fork of [4ccEditor](https://github.com/the4chancup/4ccEditor), focused on bulk player data operations for Pro Evolution Soccer save files.**
+**A fork of [4ccEditor](https://github.com/the4chancup/4ccEditor), focused on bulk player data operations for Pro Evolution Soccer 2021 save files.**
 
 ## About
 
